@@ -1,2 +1,4 @@
 # SZOFTF-T-LA01
 GDE SZOFTF-T-LA01
+
+# Testreszabható, Pomodoro alapú produktivitás- és időgazdálkodási alkalmazás fejlesztése. - TimeForge
